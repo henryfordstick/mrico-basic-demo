@@ -3,11 +3,17 @@
 
 ### 技术
 1、react  ^16.13.1
+
 2、react-dom ^16.13.1
+
 3、webpack ^5.0.0-beta.20
+
 4、webpack-cli ^4.0.0-beta.8
+
 5、babel-loader  @babel/core @babel/preset-react
+
 6、learn 
+
 7、serve 没有用到node，所以利用serve启动服务
 
 ### 安装
